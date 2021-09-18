@@ -1,2 +1,2 @@
 # museum-of-candy
-responsive app from udemy
+responsive React app from udemy 
